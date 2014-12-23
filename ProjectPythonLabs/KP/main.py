@@ -36,7 +36,6 @@ graph = nx.DiGraph()
     
 graph.add_nodes_from(range(7))
 
-        
 graph.add_edge(0,1)
 graph.add_edge(0,2)
 graph.add_edge(1,3)
